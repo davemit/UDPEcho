@@ -7,7 +7,6 @@
 * Summary:
 *  This file contains common stuff for the client and server
 *
-* Revisions:
 *
 *********************************************************/
 #include <stdio.h>
